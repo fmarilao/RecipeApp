@@ -1,7 +1,5 @@
-# Getting Started with Create React App
+<H1>Recipe App</H1>
 
-*Create react app
-*Axios
-*Hooks
+<H3>React + Axios + Hooks</H3>
 
-you can view this project online at http://searchmovies.fmarilao.tech
+view online http://recipeapp.fmarilao.tech
