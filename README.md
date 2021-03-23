@@ -1,7 +1,9 @@
+### :computer: Recipe App Project :hamburger:
+
+Was developed to train in the following technologies:
+
+React + Axios + Hooks
+
 <img src="https://github.com/fmarilao/recipeapp/blob/master/foodApp.png"/>
 
-<H1>Recipe App</H1>
-
-<H3>React + Axios + Hooks</H3>
-
-view online http://recipeapp.fmarilao.tech
+deployed at: :link: http://recipeapp.fmarilao.tech
